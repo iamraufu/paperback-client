@@ -1,0 +1,22 @@
+.social-button-container {
+    width: 30% !important;
+    outline: none;
+    margin: auto;
+    border: 2px solid lightgray;
+    border-radius: 20px !important;
+    text-align: center;
+}
+
+.social-button-container img {
+    width: 5% !important;
+}
+
+.social-buttons {
+    background-color: white;
+    border: none;
+}
+
+.login {
+    padding: 18rem 0;
+    text-align: center;
+}

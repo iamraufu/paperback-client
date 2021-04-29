@@ -1,0 +1,35 @@
+.book-card {
+    margin: 40px auto !important;
+}
+
+.card {
+    border: none;
+    background-color: white !important;
+    width: 300px !important;
+    filter: drop-shadow(0 0 0.75rem rgb(109, 96, 96));
+    border-radius: 20px;
+    padding-right: 2px !important;
+}
+
+.card-image {
+    width: 50% !important;
+    align-self: center;
+}
+
+@media (min-width:1200px) {
+    .card {
+        width: 800px !important;
+    }
+}
+
+@media (min-width:1440px) {
+    .card {
+        width: 400px !important;
+    }
+}
+
+@media (min-width:2560px) {
+    .card {
+        width: 800px !important;
+    }
+}
